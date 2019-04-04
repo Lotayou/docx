@@ -61,6 +61,4 @@ class DocxFile:
     def readdocx(self):
         return self.text_list
 
-#x=DocxFile('C:\\Users\\coder\\Desktop\\SAKINA FLORENCE BARAZA.docx')
-#x.expandDocxFile()
-#print(x.readdocx())
+
